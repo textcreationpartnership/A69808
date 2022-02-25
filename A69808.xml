@@ -1,0 +1,260 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The country miss new come in fashion; or, A farewel to the pockifi'd town miss A country girl in a paragon gown, that never yet knew the tricks of the town; did lately delude a taring gallant, to just such an innocent virgin did want, and since he's enjoy'd her I heard him protest that of all other misses she pleased him best. To an excellent new play-house tune, called, The mock-tune to the French ranth. With allowance.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1677</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 5 KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A69808</idno>
+            <idno type="STC">Wing C6565</idno>
+            <idno type="STC">ESTC R213428</idno>
+            <idno type="EEBO-CITATION">99825813</idno>
+            <idno type="PROQUEST">99825813</idno>
+            <idno type="VID">30203</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A69808)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 30203)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1757:6, 21232:90-91)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The country miss new come in fashion; or, A farewel to the pockifi'd town miss A country girl in a paragon gown, that never yet knew the tricks of the town; did lately delude a taring gallant, to just such an innocent virgin did want, and since he's enjoy'd her I heard him protest that of all other misses she pleased him best. To an excellent new play-house tune, called, The mock-tune to the French ranth. With allowance.</title>
+               </titleStmt>
+               <extent>1 sheet ([1] p.) : ill. (woodcuts)  </extent>
+               <publicationStmt>
+                  <publisher>printed for W. Thackeray, T. Passenger, and W. Whitwood,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>[1677?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Publication date estimated by Wing.</note>
+                  <note>Reproductions of the originals in the Bodleian Library (reel 1757) and the British Library (reel 2123).</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Ballads, English --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-08</date>
+            <label>Geremy Carnes</label>Sampled and proofread</change>
+         <change>
+            <date>2012-08</date>
+            <label>Geremy Carnes</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:30203:1"/>
+            <head>The Country Miſs new come in Faſhion; Or, A farewel to the Pockifi'd Town <hi>Miſs.</hi>
+            </head>
+            <l>A Country Girl in a Paragon Gown,</l>
+            <l>That never yet knew the tricks of the town;</l>
+            <l>Did lately delude a taring Gallant,</l>
+            <l>Who juſt ſuch an Innocent Virgin did want,</l>
+            <l>And ſince he's enjoy'd her I heard him proteſt</l>
+            <l>That of all other Miſſes ſhe pleaſed him beſt.</l>
+            <div type="song">
+               <opener>To an excellent new Play-houſe Tune, Called, The Mock-Tune to the French Ranth. With Allowance.</opener>
+               <p>
+                  <figure>
+                     <figDesc>lady with a flower</figDesc>
+                  </figure>
+                  <figure>
+                     <figDesc>gentleman</figDesc>
+                  </figure>
+               </p>
+               <lg>
+                  <l>GIve me the Laſs that's true Country bred,</l>
+                  <l>With paragon gown, ſtraw Hat on her head;</l>
+                  <l>Feeding upon good Bacon and Beans,</l>
+                  <l>But never knew what jilting means.</l>
+               </lg>
+               <lg>
+                  <l>What though her skin be twany and courſe,</l>
+                  <l>Flocks ſhe lyes on, ſhe'l kiſs ne'r the worſe;</l>
+                  <l>Clap ſhe ne'r had like <hi>Miſs</hi> of the Town,</l>
+                  <l>Tha<gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>'s painted and patcht, and lyes up and down</l>
+               </lg>
+               <lg>
+                  <l>What though her ſpeech be ſimple and plain,</l>
+                  <l>She knows not what flattering complements mean;</l>
+                  <l>If bawdy you ſpeak, ſhe bluſhes and ſmiles,</l>
+                  <l>Such innocent charms ſtead of beauty beguiles.</l>
+               </lg>
+               <lg>
+                  <l>Free from diſtempers in every part.</l>
+                  <l>Where ever ſhe likes ſhe loves from her heart,</l>
+                  <l>She's not for a minute like thoſe of the Trade,</l>
+                  <l>For pleaſing enjoyment for ever ſhe's made,</l>
+               </lg>
+               <lg>
+                  <l>She has not the trick of forcing delight,</l>
+                  <l>But acts with like pleaſures each day &amp; each night</l>
+                  <l>Each moment ſhe's dying, ſo hot is her fire,</l>
+                  <l>And never does kiſs but with perfect deſire.</l>
+               </lg>
+               <lg>
+                  <l>So ſound is her Nature, ſhe's alwaies in health.</l>
+                  <l>Her kiſſes are ſweet which ſhe gives me by ſtealth</l>
+                  <l>When e're I am dull, and ſit ſighing alone.</l>
+                  <l>She I ſing me a ſong of young <hi>Tommy</hi> and <hi>Jone,</hi>
+                  </l>
+               </lg>
+               <pb facs="tcp:30203:2"/>
+               <p>
+                  <figure>
+                     <figDesc>gentleman</figDesc>
+                     <p>R I</p>
+                  </figure>
+                  <figure>
+                     <figDesc>lady</figDesc>
+                  </figure>
+               </p>
+               <lg>
+                  <l>The hair of her head is as black as a Crow,</l>
+                  <l>She's very well ſhap'd, not too high nor too low;</l>
+                  <l>All parts are inviting in e'ry degree.</l>
+                  <l>Eſpecially thoſe we are forbidden to ſee.</l>
+               </lg>
+               <lg>
+                  <l>My <hi>Nanny</hi> and I (for that is her name)</l>
+                  <l>So equally manage now each others flame.</l>
+                  <l>That neither's deceiv d nor can ever be cloyd,</l>
+                  <l>But both a like brisk after pleaſure's enjoy'd.</l>
+               </lg>
+               <lg>
+                  <l>Our Miſſes o'th Town act contrary-wiſe,</l>
+                  <l>They ne'r take delight but in hopes of a prize;</l>
+                  <l>Their deſire is pall'd before they begin.</l>
+                  <l>Becauſe they each day make a Trade of their Sin.</l>
+               </lg>
+               <lg>
+                  <l>Their blood is corrupted, their bodies are fowl,</l>
+                  <l>They ſwear loud enough to damn body and ſoul;</l>
+                  <l>They clap all their Cullies, and their pockets pick.</l>
+                  <l>And ſend the young fop home for a while to be ſick</l>
+               </lg>
+               <lg>
+                  <l>With a doze of rare Pills &amp; ſome other fine ſlaps</l>
+                  <l>They keep 'em ſelves under the notion of Claps,</l>
+                  <l>VVhich elſe would arrive to the bridge of the noſe,</l>
+                  <l>But that they prevent by a ſurpentine doze.</l>
+               </lg>
+               <lg>
+                  <l>My <hi>Nanny</hi> and I are free from diſeaſe,</l>
+                  <l>VVe ne'r are in danger let's do what we pleaſe:</l>
+                  <l>VVe hugg and we kiſs, we ſport and we play,</l>
+                  <l>And for pleaſures we ſtudy to find a new way.</l>
+               </lg>
+               <lg>
+                  <l>VVhat though her country Tones does ſeem rude</l>
+                  <l>And cannot with eloquence others delude</l>
+                  <l>'Tis no matter for that, ſhe has won my heart ſo,</l>
+                  <l>I ſhall love her for ever for a trick that I know.</l>
+               </lg>
+               <lg>
+                  <l>Beyond all expreſſing ſhe ſweetens our joys.</l>
+                  <l>And doubtleſs the's full of fine Girls and fine boys</l>
+                  <l>She's kind and ſhe's true, &amp; ſo conſtant does prove</l>
+                  <l>She ne'r will admit any Rival in Love.</l>
+               </lg>
+               <lg>
+                  <l>The Butter flye M<gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ſs may ſcoff if ſhe will.</l>
+                  <l>And ſwear that my Country <hi>Nanny</hi> wants skill:</l>
+                  <l>To ſport and to kiſs, but i'le vow ſhe's deceiv'd.</l>
+                  <l>She has judgement enough if I may be believ'd,</l>
+               </lg>
+               <lg>
+                  <l>Such harmleſs embraces would raviſh ones ſoul,</l>
+                  <l>Though old age and envy ſtand by to controul.</l>
+                  <l>Her kiſſes a man almoſt dead will revive,</l>
+                  <l>No better are had from no woman alive.</l>
+               </lg>
+               <lg>
+                  <l>All that I have ſaid of my <hi>Nanny</hi> is true</l>
+                  <l>And more ſhe deſerves if I gave her her due,</l>
+                  <l>But this ſhall ſuffice, and my labour i<gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>e ſave</l>
+                  <l>Leſt you all fall a longing for what you can't have</l>
+               </lg>
+            </div>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>London</hi> Printed for <hi>W. Thackeray, T. Paſſenger,</hi> and <hi>W. Whitwood.</hi>
+            </p>
+         </div>
+      </back>
+   </text>
+</TEI>
